@@ -2,7 +2,7 @@
   <div>
     <TheNavigation />
     <div class="body">
-      <TheBody/>
+      <NuxtPage/>
     </div>
     
     <TheFooter/>
